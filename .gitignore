@@ -1,0 +1,18 @@
+# System & Environment
+.DS_Store
+Thumbs.db
+powershell.cmd
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary & logs
+*.log
+scratch/
+
+# Keep upload directories but ignore temporary files
+# uploads/profiles/*
+# !uploads/profiles/.gitkeep
